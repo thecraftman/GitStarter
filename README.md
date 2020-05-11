@@ -1,36 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a88c9701-199b-4b60-935c-827bb046d843/deploy-status)](https://app.netlify.com/sites/techmeetslmu/deploys)
+# flutter_esp8266_ir_remote
+An IR remote app implemented using Flutter an esp8266 NodeMCU dev board and Arduino IDE.
 
-# Hello Landmark University Developers :wave:
-
-### Let's help you submit your first Pull Request!
-
-Follow the instructions :point_right: [here](https://techmeetslmu.netlify.com) to get started. 
-
----
-## Setting up the project for development :wrench: 
-Make sure you have latest version of Node and NPM installed. 
-
-- Install GatsbyCLI globally. Refer the [Gatsby Docs](https://www.gatsbyjs.org/docs/) for information regarding the framework.
-  ```sh
-  npm install --global gatsby-cli
-  ```
-- Fork and Clone the repository
-  ```sh
-  git clone https://github.com/YOUR_USERNAME/GitStarter
-  ```
-- Install all the node dependencies
-  ```sh
-  cd GitStarter
-  npm install
-  ```
-- Run the app in development mode
-  ```
-  gatsby develop
-  ```
-- for Build
-  ```
-  gatsby build
-  ```
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mayokunthefirst/GitStarter)
+Medium article that describes the development.
+https://medium.com/@TimMcDon4ld/using-flutter-and-arduino-to-control-appliances-b8fcd61b220
